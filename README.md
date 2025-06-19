@@ -1,12 +1,30 @@
 ## 檔案簡介
-#### gem5
+### gem5
 包含所有有修改的檔案，每個檔案都按照其路徑儲存
-#### Q3
-第三題的log
-#### Q4
-第四題的log
-#### Q5
-第五題的log
+### Q3
+#### 第三題的log
+終端機輸出內容:
+- `cmdlog_2-way.txt`
+- `cmdlog_full-way.txt`
+stats:
+- `statsQ3_2way`
+- `statsQ3_fullway`
+### Q4
+#### 第四題的log
+終端機輸出內容:
+- `cmdlog_FB.txt`
+- `cmdlog_LRU.txt`
+stats:
+- `statsQ4_FB`
+- `statsQ4_LRU`
+### Q5
+#### 第五題的log
+終端機輸出內容:
+- `cmdlog_WB.txt`
+- `cmdlog_WT.txt`
+stats:
+- `statsQ5_WB`
+- `statsQ5_WT`
 ## Questions
 ### Q2-Enable L3 last level cache in GEM5 + NVMAIN (15%)
 #### 修改檔案
